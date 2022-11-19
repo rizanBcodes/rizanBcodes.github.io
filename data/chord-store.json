@@ -1,0 +1,36 @@
+[
+    {
+        "name": "C",
+        "type": "maj",
+        "third": "E",
+        "fifth": "G",
+        "seventh": "B",
+        "relative": "A minor",
+        "scale": "C D E F G A B",
+        "shape": {
+            "1": "0",
+            "2": "1",
+            "3": "0",
+            "4": "2",
+            "5": "3",
+            "6": "x"
+        }
+    },
+    {
+        "name": "D",
+        "type": "min",
+        "third": "F",
+        "fifth": "A",
+        "seventh": "C",
+        "relative": "F major",
+        "scale": "D E F G A Bb C",
+        "shape": {
+            "1": "1",
+            "2": "3",
+            "3": "2",
+            "4": "0",
+            "5": "x",
+            "6": "x"
+        }
+    }
+]
