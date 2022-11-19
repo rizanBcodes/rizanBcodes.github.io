@@ -1,3 +1,5 @@
+Supported chord types: maj, min
+
 ```
 //assuming the chord type exists in our chordStore
 async function getChordShape(chordType, store){
@@ -11,13 +13,13 @@ async function getChordShape(chordType, store){
   console.log(chordShapes);
 }
 
-//usage
-////should return an array with major chords
+```
+
+```
 getChordShape("maj", chordStore);
-```
-Supported chord types: maj, min
-```
-Example response for 
+//usage, should return an array with major chords
+
+Example:
 [
     {
         "name": "C",
