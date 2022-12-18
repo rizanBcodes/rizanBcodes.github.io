@@ -1,0 +1,483 @@
+{
+  "movies": [
+    {
+      "id": "avenger-endgame",
+      "title": "Avengers: Endgame",
+      "plot": "After the devastating events of Avengers: Infinity War (2018), the universe is in ruins. With the help of remaining allies, the Avengers assemble once more in order to undo Thanos' actions and restore order to the universe.",
+      "genre": "Action, Adventure, Fantasy, Sci-Fi",
+      "rating": 8.4,
+      "year": "2019",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGZiMzBkZjMtNjE3Mi00MWNlLWIyYjItYTk3MjY0Yjg5ODZkXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SX300.jpg"
+    },
+    {
+      "id": "the-godfather",
+      "title": "The Godfather",
+      "plot": "Don Vito Corleone, head of a mafia family, decides to hand over his empire to his youngest son Michael. However, his decision unintentionally puts the lives of his loved ones in grave danger.",
+      "genre": "Crime, Drama",
+      "rating": 9.1,
+      "year": "1972",
+      "poster": "https://images.app.goo.gl/5pC3DXs4R6PMfRkW8"
+    },
+    {
+      "id": "the-dark-knight",
+      "title": "The Dark Knight",
+      "plot": "After Gordon, Dent and Batman begin an assault on Gotham's organised crime, the mobs hire the Joker, a psychopathic criminal mastermind who offers to kill Batman and bring the city to its knees.",
+      "genre": "Action, Adventure",
+      "rating": 9,
+      "year": "2008",
+      "poster": "https://images.app.goo.gl/oLYNmMSVKv3jF84B6"
+    },
+    {
+      "id": "pulp-fiction",
+      "title": "Pulp Fiction",
+      "plot": "In the realm of underworld, a series of incidents intertwines the lives of two Los Angeles mobsters, a gangster's wife, a boxer and two small-time criminals.",
+      "genre": "Crime, Drama",
+      "rating": 8.8,
+      "year": "1994",
+      "poster": "https://images.app.goo.gl/UX28GLy1GMvohQCr7"
+    },
+    {
+      "id": "forrest-gump",
+      "title": "Forrest Gump ",
+      "plot": "Forrest, a man with low IQ, recounts the early years of his life when he found himself in the middle of key historical events. All he wants now is to be reunited with his childhood sweetheart, Jenny.",
+      "genre": "Drama, Romance",
+      "rating": 8.4,
+      "year": "1994",
+      "poster": "https://flxt.tmsimg.com/assets/p15829_p_v8_as.jpg"
+    },
+    {
+      "id": "falling-down",
+      "title": "Falling Down",
+      "plot": "An ordinary man frustrated with the various flaws he sees in society begins to psychotically and violently lash out against them.",
+      "genre": "Action, Crime, Drama",
+      "rating": 7.6,
+      "year": "1993",
+      "poster": "https://images.app.goo.gl/5YfzB9qGbbsopeT4A"
+    },
+    {
+      "id": "the-social-network",
+      "title": "The social network",
+      "plot": "As Harvard student Mark Zuckerberg creates the social networking site that would become known as Facebook, he is sued by the twins who claimed he stole their idea, and by the co-founder who was later squeezed out of the business.",
+      "genre": "Drama, Biography, History",
+      "rating": 7.7,
+      "year": "2010",
+      "poster": "https://images.app.goo.gl/LNkr2rhzukM9smdg7"
+    },
+    {
+      "id": "pirates-of-silicon-valley",
+      "title": "Pirates of Silicon Valley",
+      "plot": "This is a semi-humorous biographical film about the men who made the world of technology what it is today, their struggles during college, the founding of their companies, and the ingenious actions they took to build up the global corporate empires of Apple Computer Corporation and Microsoft Inc.",
+      "genre": "Drama, Biography, History",
+      "rating": 7.2,
+      "year": "1999",
+      "poster": "https://images.app.goo.gl/HEJHoVjDpNkTfY557"
+    },
+    {
+      "id": "free-guy",
+      "title": "Free Guy",
+      "plot": "A bank teller discovers that he's actually an NPC inside a brutal, open world video game.",
+      "genre": "Action, Adventure",
+      "rating": 7.4,
+      "year": "2021",
+      "poster": "https://images.app.goo.gl/4akM2sMWsqqzeFuD6"
+    },
+    {
+      "id": "intestellar",
+      "title": "Interstellar",
+      "plot": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "genre": "Adventure, Drama, Sci-Fi",
+      "rating": 8.6,
+      "year": "2014",
+      "poster": "https://images.app.goo.gl/tpKfwhNM2mTt2ngcA"
+    },
+    {
+      "id": "cinderella-2021",
+      "title": "Cinderella 2021",
+      "plot": "A modern movie musical with a bold take on the classic fairy tale. Our ambitious heroine has big dreams and with the help of her fab Godmother, she perseveres to make them come true.",
+      "genre": "Adventure, Comedy, Family",
+      "rating": 4.2,
+      "year": "2021",
+      "poster": "https://images.app.goo.gl/GaLA5xkcgYNm6yPbA"
+    },
+    {
+      "id": "the-conjuring",
+      "title": "The Conjuring",
+      "plot": "In 1970, paranormal investigators and demonologists Lorraine (Vera Farmiga) and Ed (Patrick Wilson) Warren are summoned to the home of Carolyn (Lili Taylor) and Roger (Ron Livingston) Perron. The Perrons and their five daughters have recently moved into a secluded farmhouse, where a supernatural presence has made itself known. Though the manifestations are relatively benign at first, events soon escalate in horrifying fashion, especially after the Warrens discover the house's macabre history.",
+      "genre": "Horror",
+      "rating": 7.5,
+      "year": "2013",
+      "poster": "https://images.app.goo.gl/C8K8SG65UKv5C9xu9"
+    },
+    {
+      "id": "fight-club",
+      "title": "Fight Club",
+      "plot": "Discontented with his capitalistic lifestyle, a white-collared insomniac forms an underground fight club with Tyler, a careless soap salesman. The project soon spirals down into something sinister.",
+      "genre": "Thriller, Drama",
+      "rating": 8.8,
+      "year": "1999",
+      "poster": "https://images.app.goo.gl/9Xd1S1hYUE9sqeQL6"
+    },
+    {
+      "id": "harry-potter-and-the-philosophers-stone",
+      "title": "Harry Potter and the Philosopher's Stone",
+      "plot": "Adaptation of the first of J.K. Rowling's popular children's novels about Harry Potter, a boy who learns on his eleventh birthday that he is the orphaned son of two powerful wizards and possesses unique magical powers of his own. He is summoned from his life as an unwanted child to become a student at Hogwarts, an English boarding school for wizards. There, he meets several friends who become his closest allies and help him discover the truth about his parents' mysterious deaths.",
+      "genre": "Fantasy, Family",
+      "rating": 7.6,
+      "year": "2001",
+      "poster": "https://static.wikia.nocookie.net/harrypotter/images/f/fb/PS_poster.jpg/revision/latest?cb=20180318153750"
+    },
+    {
+      "id": "avatar",
+      "title": "Avatar",
+      "plot": "On the lush alien world of Pandora live the Na'vi, beings who appear primitive but are highly evolved. Because the planet's environment is poisonous, human/Na'vi hybrids, called Avatars, must link to human minds to allow for free movement on Pandora.",
+      "genre": "Action, Fantasy, Sci-Fi, Adventure",
+      "rating": 7.8,
+      "year": "2009",
+      "poster": "https://movieposters2.com/images/703197-b.jpg"
+    },
+    {
+      "id": "get-out",
+      "title": "Get Out",
+      "plot": "Get Out is a bizarre movie about the events that happen to a guy named Chris who goes to visit his girlfriend’s parents over a weekend.",
+      "genre": "Horror, Thriller",
+      "rating": 7.7,
+      "year": "2017",
+      "poster": "https://images.app.goo.gl/jhLvEf5GK28oewdM9"
+    },
+    {
+      "id": "five-feet-apart",
+      "title": "Five Feet Apart",
+      "plot": "Five Feet Apart Summary F ive Feet Apart is a novel about Stella Grant and Will Newman, two teenagers with cystic fibrosis who fall in love.",
+      "genre": "Romance, Drama",
+      "rating": 7.2,
+      "year": "2019",
+      "poster": "https://images.app.goo.gl/1qWgUe7nCLQjGJeR6"
+    },
+    {
+      "id": "chemical-hearts",
+      "title": "Chemical Hearts",
+      "plot": "Chemical Hearts’ is the story of a teenager who falls in love for the first time, only to realize that it is not as magnificent and fairy-tale-ish as it is shown in the movies.",
+      "genre": "Romance, Teenage Limbo",
+      "rating": 6.3,
+      "year": "2020",
+      "poster": "https://images.app.goo.gl/bhMv8SPdpRdaSht19"
+    },
+    {
+      "id": "gone-girl",
+      "title": "Gone Girl",
+      "plot": "With his wife's disappearance having become the focus of an intense media circus, a man sees the spotlight turned on him when it's suspected that he may not be innocent.",
+      "genre": "Mystery, Thriller, Drama",
+      "rating": 8.1,
+      "year": "2014",
+      "poster": "https://images.app.goo.gl/y3bsrA9Abr3V26bU9"
+    },
+    {
+      "id": "the-accountant",
+      "title": "The Accountant",
+      "plot": "As a math savant uncooks the books for a new client, the Treasury Department closes in on his activities, and the body count starts to rise.",
+      "genre": "Crime, Drama, Thriller, Action",
+      "rating": 7.3,
+      "year": "2016",
+      "poster": "https://image.tmdb.org/t/p/original/vnEDk1Dr2FqrEaLjD437NYAjYVu.jpg"
+    },
+    {
+      "id": "how-to-steal-a-million",
+      "title": "How to Steal a Million",
+      "plot": "The daughter of an art forger teams up with a burglar to steal one of her father's forgeries and protect his secret.",
+      "genre": "Crime, Comedy, Romance",
+      "rating": 7.6,
+      "year": "1966",
+      "poster": "https://image.tmdb.org/t/p/original/jQuBlzvWABKIqZSin3cpPn9r7br.jpg"
+    },
+    {
+      "id": "austenland",
+      "title": "Austenland",
+      "plot": "Obsessed with Pride and Prejudice (1995), a woman travels to a Jane Austen theme park in search for her perfect gentleman.",
+      "genre": "Comedy, Romance",
+      "rating": 6.3,
+      "year": "2013",
+      "poster": "https://www.reellifewithjane.com/wp-content/uploads/2014/02/Austenland-Poster.jpg"
+    },
+    {
+      "id": "ever-after-a-cinderella-story",
+      "title": "Ever After: A Cinderella Story",
+      "plot": "The Brothers Grimm arrive at the home of a wealthy Grande Dame who speaks of the many legends surrounding the fable of the cinder girl before telling the 'true' story of her ancestor.",
+      "genre": "Drama, Comedy, Romance",
+      "rating": 7.0,
+      "year": "1998",
+      "poster": "https://4.bp.blogspot.com/-Bdje-0eunIo/Ud2psOtsrFI/AAAAAAAAAU8/I8k2t53AcEs/s1600/EverAfter-1998-movie-poster.jpg"
+    },
+    {
+      "id": "no-time-to=die",
+      "title": "No Time to Die",
+      "plot": "James Bond has left active service. His peace is short-lived when Felix Leiter, an old friend from the CIA, turns up asking for help, leading Bond onto the trail of a mysterious villain armed with dangerous new technology.",
+      "genre": "Action, Adventure, Thriller",
+      "rating": 7.6,
+      "year": "2021",
+      "poster": "https://www.bollywoodhungama.com/wp-content/uploads/2021/09/No-Time-To-Die-to-be-the-FIRST-James-Bond-film-to-release-in-3D-expected-to-be-the-BIGGEST-Hollywood-release-post-pandemic-in-India.jpg"
+    },
+    {
+      "id": "dune",
+      "title": "Dune",
+      "plot": "Feature adaptation of Frank Herbert's science fiction novel, about the son of a noble family entrusted with the protection of the most valuable asset and most vital element in the galaxy.",
+      "genre": "Action, Adventure, Drama",
+      "rating": 8.3,
+      "year": "2021",
+      "poster": "https://pics.filmaffinity.com/Dune-756528084-large.jpg"
+    },
+    {
+      "id": "the-lion-king",
+      "title": "The Lion King",
+      "plot": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+      "genre": "Animation, Adventure, Drama",
+      "rating": 6.8,
+      "year": "2019",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_thelionking2019_19732_c1561d41.jpeg"
+    },
+    {
+      "id": "everything-everywhere-all-at-once",
+      "title": "Everything Everywhere All at Once",
+      "plot": "A Chinese immigrant gets unwillingly embroiled in an epic adventure where she must connect different versions of herself in the parallel universe to stop someone who intends to harm the multiverse.",
+      "genre": "Adventure, Sci-fi",
+      "rating": 8.1,
+      "year": "2022",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/1e/Everything_Everywhere_All_at_Once.jpg"
+    },
+    {
+      "id": "encanto",
+      "title": "Encanto",
+      "plot": "The Madrigals are an extraordinary family who live hidden in the mountains of Colombia in a charmed place called the Encanto.",
+      "genre": "Animation, Comedy, Family",
+      "rating": 7.2,
+      "year": "2021",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_encanto_homeent_22359_4892ae1c.jpeg"
+    },
+    {
+      "id": "doctor-strange-in-the-multiverse-of-madness",
+      "title": "Doctor Strange in the Multiverse of Madness",
+      "plot": "Doctor Strange teams up with a mysterious teenage girl from his dreams who can travel across multiverses, to battle multiple threats, including other-universe versions of himself, which threaten to wipe out millions across the multiverse.",
+      "genre": "Action, Adventure, Sci-Fi",
+      "rating": 7,
+      "year": "2022",
+      "poster": "https://lumiere-a.akamaihd.net/v1/images/p_drstrangeinthemultiverseofmadness_245_476cabb1.jpeg"
+    },
+    {
+      "id": "life-is-beautiful",
+      "title": "Life is Beautiful",
+      "plot": "A Jewish father and his family are surrounded by Nazi death camps. Living in a hostile environment, he uses humor to shield his young son from the grim realities of war.",
+      "genre": "Drama",
+      "rating": 8.6,
+      "year": "1997",
+      "poster": "https://images.app.goo.gl/hoBHqgQmnQjcH4Ue6"
+    },
+    {
+      "id": "three-thousand-years-of-longing",
+      "title": "Three Thousand Years of Longing",
+      "plot": "While attending a conference in Istanbul, Dr. Alithea Binnie happens to encounter a djinn who offers her three wishes in exchange for his freedom. This presents two problems: first, she doubts that he's real, and second, because she's a scholar of story and mythology, she knows all the cautionary tales of wishes gone wrong. The djinn pleads his case by telling her fantastical stories of his past. Eventually, she's beguiled and makes a wish that surprises them both.",
+      "genre": "Fantasy/Romance",
+      "rating": 6.8,
+      "year": "2022",
+      "poster": "https://images.app.goo.gl/Rtnzn3F5sfXuduwS9"
+    },
+    {
+      "id": "kantara",
+      "title": "Kantara",
+      "plot": "Kantara is a mysterious forest and this is a story that happens around the area",
+      "genre": "Action, Adventure, Drama, Thriller",
+      "rating": 9,
+      "year": 2022,
+      "poster": "https://tse4.mm.bing.net/th/id/OIP.hibp7HjGdW5GmxRrMwGFCgAAAA?pid=ImgDet&rs=1"
+    },
+    {
+      "id": "legally-blonde",
+      "title": "Legally Blonde",
+      "plot": "Elle Woods, a fashionable sorority queen, is dumped by her boyfriend. She decides to follow him to law school. While she is there, she figures out that there is more to her than just looks.",
+      "genre": "Comedy, Romance",
+      "rating": 6.4,
+      "year": "2001",
+      "poster": "https://images.app.goo.gl/6e6Zqxpu2Ly3NUTSA"
+    }
+  ],
+  "shows": [
+    {
+      "id": "you",
+      "title": "You",
+      "plot": "What would you do for love? For a brilliant male bookstore manager who crosses paths with an aspiring female writer, this question is put to the test.",
+      "genre": "Crime, Drama",
+      "rating": 7.7,
+      "year": "2018",
+      "poster": "https://images.app.goo.gl/8Ctn7Xz1hkiNUYhj7"
+    },
+    {
+      "id": "friends-show",
+      "title": "F.R.I.E.N.D.S",
+      "plot": "Follow the lives of six reckless adults living in Manhattan, as they indulge in adventures which make their lives both troublesome and happening.",
+      "genre": "Sitcom",
+      "rating": 8.8,
+      "year": "1994",
+      "poster": "https://images.app.goo.gl/s8MgXzzvR5KmzT1R8"
+    },
+    {
+      "id": "2-broke-girls",
+      "title": "2 Broke Girls",
+      "plot": "Max and Caroline, two girls in their mid-twenties, work at a Brooklyn restaurant as waitresses. Together, they dream of starting up their cupcake business, but always find themselves without money.",
+      "genre": "Sitcom",
+      "rating": 6.6,
+      "year": "2011",
+      "poster": "https://images.app.goo.gl/eXdjZySBSSPm9NLV7"
+    },
+    {
+      "id": "young-sheldon",
+      "title": "Young Sheldon",
+      "plot": "Sheldon Cooper, a bona fide genius, has been promoted four grades. Meanwhile, he struggles to fit in with his unintellectual family in Texas.",
+      "genre": "Sitcom",
+      "rating": 7.5,
+      "year": "2017",
+      "poster": "https://images.app.goo.gl/YB99YcRnMZrE536GA"
+    },
+    {
+      "id": "brooklyn-nine-nine",
+      "title": "Brooklyn Nine-Nine",
+      "plot": "Ray Holt, an eccentric commanding officer, and his diverse and quirky team of odd detectives solve crimes in Brooklyn, New York City.",
+      "genre": "Sitcom",
+      "rating": 8.4,
+      "year": "2013",
+      "poster": "https://images.app.goo.gl/SHuYgfusLjdMT84k6"
+    },
+    {
+      "id": "money-heist",
+      "title": "Money Heist",
+      "plot": "An unusual group of robbers attempt to carry out the most perfect robbery in Spanish history - stealing 2.4 billion euros from the Royal Mint of Spain.",
+      "genre": "Action, Crime, Mystery",
+      "rating": 8.2,
+      "year": "2017",
+      "poster": "https://images.app.goo.gl/3oUxc8xrRBGczTDb6"
+    },
+    {
+      "id": "the-office",
+      "title": "The Office",
+      "plot": "A mockumentary on a group of typical office workers, where the workday consists of ego clashes, inappropriate behavior, and tedium.",
+      "genre": "Comedy",
+      "rating": 8.9,
+      "year": "2005",
+      "poster": "https://images.app.goo.gl/KSHWMhg9QW1ytB6i7"
+    },
+    {
+      "id": "suits",
+      "title": "Suits",
+      "plot": "A drama series where a brilliant college dropout finds himself with one of New York City's best lawyers in a mishap of his drug deal.",
+      "genre": "Drama",
+      "rating": 8.4,
+      "year": "2011",
+      "poster": "https://images.app.goo.gl/m8mNDaXumjoyZxdk9"
+    },
+    {
+      "id": "how-i-met-your-mother",
+      "title": "How I Met Your Mother",
+      "plot": "A father recounts to his children - through a series of flashbacks - the journey he and his four best friends took leading up to him meeting their mother.",
+      "genre": "Comedy, Romance",
+      "rating": 8.3,
+      "year": "2005",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNjg1MDQ5MjQ2N15BMl5BanBnXkFtZTYwNjI5NjA3._V1_.jpg"
+    },
+    {
+      "id": "dexter",
+      "title": "Dexter",
+      "plot": "He's smart. He's lovable. He's Dexter Morgan, America's favorite serial killer, who spends his days solving crimes and nights committing them.",
+      "genre": "Crime, drama",
+      "rating": 8.6,
+      "year": "2006",
+      "poster": "https://m.media-amazon.com/images/M/MV5BODA1ZjEwNjYtODBhYS00MDEyLTgxZjMtNjAwODMwODNkNzIzXkEyXkFqcGdeQXVyOTA3MTMyOTk@._V1_QL75_UY281_CR4,0,190,281_.jpg"
+    },
+    {
+      "id": "sherlock",
+      "title": "Sherlock",
+      "plot": "Dr Watson, a former army doctor, finds himself sharing a flat with Sherlock Holmes, an eccentric individual with a knack for solving crimes. Together, they take on the most unusual cases.",
+      "genre": "Crime,Mystery",
+      "rating": 9.1,
+      "year": "2010",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWY3NTljMjEtYzRiMi00NWM2LTkzNjItZTVmZjE0MTdjMjJhL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNTQ4NTc5OTU@._V1_FMjpg_UX1000_.jpg"
+    },
+    {
+      "id": "game-of-thrones",
+      "title": "Game of Thrones",
+      "plot": "Nine noble families wage war against each other in order to gain control over the mythical land of Westeros. Meanwhile, a force is rising after millenniums and threatens the existence of living men.",
+      "genre": "Drama,Fantasy",
+      "rating": 9.2,
+      "year": "2010",
+      "poster": "https://flxt.tmsimg.com/assets/p8553063_b_v13_ax.jpg"
+    },
+    {
+      "id": "squid-games",
+      "title": "Squid Games",
+      "plot": "The series centers on a contest where 456 players, drawn from different walks of life but each deeply in debt, play a set of children's games with deadly consequences for losing for a chance to win a ₩45.6 billion prize.",
+      "genre": "Drama,Thriller",
+      "rating": 8.3,
+      "year": "2021",
+      "poster": "https://images.app.goo.gl/dEbS7BUopc22TBSD7"
+    },
+    {
+      "id": "the-midnight-gostel",
+      "title": "The Midnight Gospel",
+      "plot": "The Midnight Gospel is a scientific science animated series about identifying real philosophical themes, created by Pendleton Ward and Duncan Trussell, released on Netflix on April 20, 2020.",
+      "genre": "comedy, animation",
+      "rating": 9.5,
+      "year": "2020",
+      "poster": "https://br.web.img3.acsta.net/pictures/20/04/07/09/20/3137618.jpg"
+    },
+    {
+      "id": "successsion",
+      "title": "Succession",
+      "plot": "The Roy family is known for controlling the biggest media and entertainment company in the world. However, their world changes when their father steps down from the company. Created by Jesse Armstrong, released on HBO on June 3, 2018",
+      "genre": "Drama",
+      "rating": 8.7,
+      "year": "2018",
+      "poster": "https://m.media-amazon.com/images/M/MV5BZDE0ODVlYjktNjJiMC00ODk4LWIwNTktMWRhZmZiOGFhYmUwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+    },
+    {
+      "id": "the-shawshank-redemption",
+      "title": "The Shawshank Redemption",
+      "plot": "Two imprisoned men bond over a number of years, finding solace and eventual redemption through acts of common decency.",
+      "genre": "Drama",
+      "rating": 9.3,
+      "year": "1994",
+      "poster": "https://www.imdb.com/title/tt0111161/mediaviewer/rm10105600/"
+    },
+    {
+      "id": "scam-1992",
+      "title": "Scam 1992",
+      "plot": "Harshad Mehta took the stock market to dizzying heights and had a catastrophic downfall.",
+      "genre": "Crime,Drama",
+      "rating": 9.5,
+      "year": "2020",
+      "poster": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRPT4dbNPCbzIbsIJVwhEbnLEN0fYUx_mdE55GU_zhaDL1xfQ8d"
+    },
+    {
+      "id": "angry-men",
+      "title": "Angry Men",
+      "plot": "The jury in a New York City murder trial is frustrated by a single member whose skeptical caution forces them to more carefully consider the evidence before jumping to a hasty verdict.",
+      "genre": "Crime,Drama",
+      "rating": 9.0,
+      "year": "1957",
+      "poster": "https://www.imdb.com/title/tt0050083/mediaviewer/rm2927108352/"
+    },
+    {
+      "id": "one-piece",
+      "title": "One Piece",
+      "plot": "Follows the adventures of Monkey D. Luffy and his pirate crew in order to find the greatest treasure ever left by the legendary Pirate, Gold Roger. The famous mystery treasure named One Piece",
+      "genre": "Anime",
+      "rating": 8.9,
+      "year": "1999",
+      "poster": "https://www.imdb.com/title/tt0388629/mediaviewer/rm3995109633/?ref_=tt_ov_i"
+    },
+    {
+      "id": "jersey-shore",
+      "title": "Jersey Shore",
+      "plot": "A reality-based look at the vapid lives of several New Jersey 20-somethings and their respective friends and/or hook-ups.",
+      "genre": "Reality, Drama, Comedy",
+      "rating": 3.8,
+      "year": "2009",
+      "poster": "https://images.app.goo.gl/FGNjb7wiLS5HoqNS6"
+    }
+  ]
+}
